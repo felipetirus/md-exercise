@@ -18,5 +18,3 @@ Observe que o md-exercise.git foi mantido e está em cada um dos usuários do pr
 
 7. Dentro do github, no seu projeto forkado (usuário/md-exercise), deverá ser criado um **pull request**(New Pull Request e verificar base: padawan\pedro head: seu projeto!).
     Esse pull request envia o seu novo arquivo para o projeto original!
-    
-8. Teste
